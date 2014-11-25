@@ -1,6 +1,6 @@
 Open Source Sanguosha
 ==========
-
+[ ![Codeship Status for qiufenglingling/QSanguosha](https://codeship.com/projects/19dcc190-5697-0132-7d12-22e6be3a6f3f/status)](https://codeship.com/projects/49579)
 Introduction
 ----------
 
